@@ -1,12 +1,13 @@
 # [new-coder](http://newcoder.io)
 
-New Coder tutorials: 5 life jackets to throw the new coder
+New Coder tutorials: 6 life jackets to throw the new coder
 
 * Data Visualization
 * Web Scraping
 * APIs
 * Networking
 * GUI
+* Cloud Computing
 
 General directory layout:
 
